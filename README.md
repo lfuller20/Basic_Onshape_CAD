@@ -1,2 +1,2 @@
 # CAD-assignments
-This is a repository for my CAD.
+This is a repository for my CAD projects.
