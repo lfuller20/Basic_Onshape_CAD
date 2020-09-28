@@ -1,4 +1,4 @@
-# Basic_Onshape_CAD
+# Basic Onshape CAD
 This is a repository for my CAD projects.
 
 ## Caster Base
@@ -11,3 +11,4 @@ This project was not very difficult. It was the first project I have completed u
 ### Image 
 ![CasterMount](images/CasterMount.jpg)
 ### Reflection
+This project was very quick and simple. It gave my more practice creating and extruding sketches, as well as using linear patters. I did not run into any trouble while doing this part. 
