@@ -25,3 +25,10 @@ This project was again quite quick and simple. The intructions were less of a st
 ### Reflection
 This project was quick and easy but some parts of it were somewhat tricky. The dimensions of the trapezoid confused me at first but after looking at the first diagram that explained to me what to click I understood it all. I'm looking forward to finishing my Caster soon. Here is the link to my OnShape Document:
 https://cvilleschools.onshape.com/documents/d7c2514fda169fb08a937189/w/777b1ff53b3fbf68c23cff5d/e/7ba9519d0c23e6a8ead35cb8
+
+## Caster Wheel
+### Image
+![CasterWheel](images/CasterWheel.jpg)
+### Reflection
+This project was a little harder than the other because I had some trouble creating the sketch for my circular pattern. However, after watching the video Mr. Helmstetter made, I was able to complete the part easily. Here is the link to my OnShape Document:
+https://cvilleschools.onshape.com/documents/19aa58f836bc89451125d0c4/w/200e71ee09146c62147a511e/e/9205da3110747e811c3380b0
