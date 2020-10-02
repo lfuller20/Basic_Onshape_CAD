@@ -52,7 +52,7 @@ https://cvilleschools.onshape.com/documents/8b23722e83846d439badeeee/w/04b59a144
 
 ## Final Assembly
 ### Image
-![Caster Assembly](images/Caster Assembly.jpg)
+![CasterAssembly](images/CasterAssembly.jpg)
 ### Reflection
 Complete! I finished my first project in OnShape and it feels great! I enjoyed doing this project and feel extremely satisfied with what I have accomplished. I had some trouble when attempting to insert the nuts and bolts however I figured out my issues and was able to complete the assembly. Here is the link to my OnShape Document:
 https://cvilleschools.onshape.com/documents/0c7103267c61c6da83459d50/w/da11724371d908aee973b3d3/e/6241f12feb0f03df29876857
