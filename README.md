@@ -44,8 +44,15 @@ Axle and Collar: https://cvilleschools.onshape.com/documents/da32e8ff41670a6a455
 Bearing: https://cvilleschools.onshape.com/documents/bdc52f322f1bea62cf503bd3/w/944f7e20c57597a27bc71db1/e/78d51b9df86e8c89469cca3e 
 
 ## Sub-Assembly
-### Images 
+### Image 
 ![Sub-Assembly](images/Sub-Assembly.jpg)
 ### Reflection
 I enjoyed completing this sub-assembly because it gave me my first look at using mates withing OnShape. Personally, I found this new way of mating, though slightly more confusing, to be a lot easier than mating was on SolidWorks. Furthermore, importing parts into OnShape assemblies is far easier than it was using SolidWorks. Here is the link to my OnShape Document:
 https://cvilleschools.onshape.com/documents/8b23722e83846d439badeeee/w/04b59a144532f6e87a88e447/e/3464d55a87bdd64e8fcf92af
+
+## Final Assembly
+### Image
+![Caster Assembly](images/Caster Assembly.jpg)
+### Reflection
+Complete! I finished my first project in OnShape and it feels great! I enjoyed doing this project and feel extremely satisfied with what I have accomplished. I had some trouble when attempting to insert the nuts and bolts however I figured out my issues and was able to complete the assembly. Here is the link to my OnShape Document:
+https://cvilleschools.onshape.com/documents/0c7103267c61c6da83459d50/w/da11724371d908aee973b3d3/e/6241f12feb0f03df29876857
