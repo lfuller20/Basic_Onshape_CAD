@@ -47,5 +47,5 @@ Bearing: https://cvilleschools.onshape.com/documents/bdc52f322f1bea62cf503bd3/w/
 ### Images 
 ![Sub-Assembly](images/Sub-Assembly.jpg)
 ### Reflection
-I enjoyed completing this sub-assembly because it gave me my first look at using mates withing OnShape. Personally I found this new way of mating, though slightly more confusing, to be a lot easier than mating was on SolidWorks. Here is the link to my OnShape Document:
+I enjoyed completing this sub-assembly because it gave me my first look at using mates withing OnShape. Personally, I found this new way of mating, though slightly more confusing, to be a lot easier than mating was on SolidWorks. Furthermore, importing parts into OnShape assemblies is far easier than it was using SolidWorks. Here is the link to my OnShape Document:
 https://cvilleschools.onshape.com/documents/8b23722e83846d439badeeee/w/04b59a144532f6e87a88e447/e/3464d55a87bdd64e8fcf92af
