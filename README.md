@@ -1,39 +1,89 @@
 # Basic Onshape CAD
-This is a repository for my CAD projects.
+I made a Caster. 
 
-## Caster Base
+---
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [Base](#Base)
+* [Mount](#Mount)
+* [Fork](#Fork)
+* [Tire](#Tire)
+* [Wheel](#Wheel)
+* [AxleCollarBearings](#AxleCollarBearings)
+
+## Base
+
+### Description
+
+The first assignment of the Caster was to create the base. The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+
+### Evidence 
+https://cvilleschools.onshape.com/documents/663d0ac700b65edb39d2e882/w/6f5f054615acc12fc6a66a02/e/874b281a06256a1b34c70602
+
 ### Image
 ![CasterBase](images/CasterBase.jpg)
-### Reflection
-This project was not very difficult. It was the first project I have completed using the OnShape program for the curriculum and am looking forward to continuing to use OnShape for the rest of the year!
 
-## Caster Mount
+### Reflection
+
+This project was not very difficult. I learned how to use shortcut keys within OnShape and got used to the differences within the program. It was the first project I have completed using the OnShape program for the curriculum and am looking forward to continuing to use OnShape for the rest of the year! 
+
+---
+
+## Mount
+
+### Description
+
+The mount was quick and easy to make. I followed the step-by-step instructions that were given to me because I wanted to make sure I completed the part correctly and understood how to use the linear pattern feature. 
+
+### Evidence
+https://cvilleschools.onshape.com/documents/b0d69b34b5f7f54ef4e5a89c/w/c9ccce9a9c12f3420cce18d3/e/6ccdb405857849e0f4c50a35
+
 ### Image 
 ![CasterMount](images/CasterMount.jpg)
-### Reflection
-This project was very quick and simple. It gave my more practice creating and extruding sketches, as well as using linear patters. I did not run into any trouble while doing this part. 
 
-## Caster Fork
+### Reflection
+
+This project was very quick and simple. It gave my more practice creating and extruding sketches, as well as using linear patterns. I did not run into any trouble while doing this part and I found it to be very easy. 
+
+--- 
+
+## Fork
+
+### Description
+
+This part was relatively easy to make. I remebered completing it last year however I had to follow the instructions to make sure I completed everything correctly. I was introduced to the mirror tool in this part and was astonished at how easy it was to mirror features. 
+
+### Evidence
+https://cvilleschools.onshape.com/documents/68b8b6bbe3da71f21d830552/w/f6f99315c99cbb8ab51ee638/e/4d89120f856f843533ea3037
+
 ### Image
 ![CasterFork](images/CasterFork.jpg)
-### Reflection
-This project was again quite quick and simple. The intructions were less of a step by step walkthrough which I liked because it allowed me to have to think back to what I've learned and find things for myself instead of being able to rely on a set of intructions. I did not have any trouble while completing this part and found it to be quite fun. Here is the link to my OnShape Document: https://cvilleschools.onshape.com/documents/68b8b6bbe3da71f21d830552/w/f6f99315c99cbb8ab51ee638/e/4d89120f856f843533ea3037
 
-## Caster Tire
+### Reflection
+
+This project was again quite quick and simple. The intructions were less of a step by step walkthrough which I liked because it allowed me to have to think back to what I learned while completing the intro course on OnShape and find things for myself instead of being able to rely on a set of intructions. I did not have any trouble while completing this part and found it to be quite fun. 
+
+---
+
+## Tire
+
+### Description
+
+While completing this part, I had my ups and downs. 
 ### Image
 ![CasterTire](images/CasterTire.jpg)
 ### Reflection
 This project was quick and easy but some parts of it were somewhat tricky. The dimensions of the trapezoid confused me at first but after looking at the first diagram that explained to me what to click I understood it all. I'm looking forward to finishing my Caster soon. Here is the link to my OnShape Document:
 https://cvilleschools.onshape.com/documents/d7c2514fda169fb08a937189/w/777b1ff53b3fbf68c23cff5d/e/7ba9519d0c23e6a8ead35cb8
 
-## Caster Wheel
+## Wheel
 ### Image
 ![CasterWheel](images/CasterWheel.jpg)
 ### Reflection
 This project was a little harder than the other because I had some trouble creating the sketch for my circular pattern. However, after watching the video Mr. Helmstetter made, I was able to complete the part easily. Here is the link to my OnShape Document:
 https://cvilleschools.onshape.com/documents/19aa58f836bc89451125d0c4/w/200e71ee09146c62147a511e/e/9205da3110747e811c3380b0
 
-## Caster Axle, Collar and Bearings
+## AxleCollarBearings
 ### Images 
 ![AxleandCollar](images/AxleandCollar.jpg)
 ![Bearing](images/Bearing.jpg)
