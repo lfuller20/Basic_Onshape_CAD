@@ -42,3 +42,10 @@ I enjoyed completing this project because I was given the satisfaction of knowin
 
 Axle and Collar: https://cvilleschools.onshape.com/documents/da32e8ff41670a6a4550c368/w/f91f12e3a29ed19b14ff5e59/e/147271d00c97a6794768e68f
 Bearing: https://cvilleschools.onshape.com/documents/bdc52f322f1bea62cf503bd3/w/944f7e20c57597a27bc71db1/e/78d51b9df86e8c89469cca3e 
+
+## Sub-Assembly
+### Images 
+![Sub-Assembly](images/Sub-Assembly.jpg)
+### Reflection
+I enjoyed completing this sub-assembly because it gave me my first look at using mates withing OnShape. Personally I found this new way of mating, though slightly more confusing, to be a lot easier than mating was on SolidWorks. Here is the link to my OnShape Document:
+https://cvilleschools.onshape.com/documents/8b23722e83846d439badeeee/w/04b59a144532f6e87a88e447/e/3464d55a87bdd64e8fcf92af
