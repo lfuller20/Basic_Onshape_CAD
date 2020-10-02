@@ -32,3 +32,12 @@ https://cvilleschools.onshape.com/documents/d7c2514fda169fb08a937189/w/777b1ff53
 ### Reflection
 This project was a little harder than the other because I had some trouble creating the sketch for my circular pattern. However, after watching the video Mr. Helmstetter made, I was able to complete the part easily. Here is the link to my OnShape Document:
 https://cvilleschools.onshape.com/documents/19aa58f836bc89451125d0c4/w/200e71ee09146c62147a511e/e/9205da3110747e811c3380b0
+
+## Caster Axle, Collar and Bearings
+### Images 
+![AxleandCollar](images/AxleandCollar.jpg)
+![Bearing](images/Bearing.jpg)
+### Reflection
+I enjoyed completing this project because I was given the satisfaction of knowing that I completed all the parts needed for my first project. Additionally, I loved being able to make two different parts within the same document. I learned more about how to use the Use tool in OnShape and its purpose. Here are the links to my documents:
+Axle and Collar: https://cvilleschools.onshape.com/documents/da32e8ff41670a6a4550c368/w/f91f12e3a29ed19b14ff5e59/e/147271d00c97a6794768e68f
+Bearing: https://cvilleschools.onshape.com/documents/bdc52f322f1bea62cf503bd3/w/944f7e20c57597a27bc71db1/e/78d51b9df86e8c89469cca3e
