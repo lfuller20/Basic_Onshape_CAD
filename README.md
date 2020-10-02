@@ -40,4 +40,4 @@ https://cvilleschools.onshape.com/documents/19aa58f836bc89451125d0c4/w/200e71ee0
 ### Reflection
 I enjoyed completing this project because I was given the satisfaction of knowing that I completed all the parts needed for my first project. Additionally, I loved being able to make two different parts within the same document. I learned more about how to use the Use tool in OnShape and its purpose. Here are the links to my documents:
 Axle and Collar: https://cvilleschools.onshape.com/documents/da32e8ff41670a6a4550c368/w/f91f12e3a29ed19b14ff5e59/e/147271d00c97a6794768e68f
-Bearing: https://cvilleschools.onshape.com/documents/bdc52f322f1bea62cf503bd3/w/944f7e20c57597a27bc71db1/e/78d51b9df86e8c89469cca3e
+Bearing: https://cvilleschools.onshape.com/documents/bdc52f322f1bea62cf503bd3/w/944f7e20c57597a27bc71db1/e/78d51b9df86e8c89469cca3e 
