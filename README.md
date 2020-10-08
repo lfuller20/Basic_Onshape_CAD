@@ -1,6 +1,6 @@
 # Basic Onshape CAD
 I made a Caster. 
-I made some a picture frame.
+I made a picture frame.
 
 ---
 ## Table of Contents
@@ -165,4 +165,7 @@ For this project, I had to get used to creating configurations and using them to
 https://cvilleschools.onshape.com/documents/cf07d93a34c749f7ca8902e8/w/dad5d271a4a3aba1541b6b96/e/eaa107bc207d9053e7a2dc72
 
 ### Image
+![DowelPins](images/DowelPins.jpg)
 
+### Reflection
+This project overall was not that difficult. I struggled more with creating the sides of my picture frame and creating the configurations for that. Mating the pins to the pieces of the frame was quite easy and straight forward. Although at some points this project frustrated me, in the end it felt nice to complete it. 
