@@ -159,4 +159,10 @@ When looking back on all that I completed during the course of this project, I l
 
 ### Description
 
-For this project, I had to get used to creating configurations and using them to complete a project.
+For this project, I had to get used to creating configurations and using them to complete a project. I had to create dowel pins, and use configurations to create 16 different versions of the pins. Then, I had to make the sides to a picture frame, and I used configurations to make completing that easier. 
+
+### Evidence
+https://cvilleschools.onshape.com/documents/cf07d93a34c749f7ca8902e8/w/dad5d271a4a3aba1541b6b96/e/eaa107bc207d9053e7a2dc72
+
+### Image
+
