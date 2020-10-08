@@ -159,5 +159,4 @@ When looking back on all that I completed during the course of this project, I l
 
 ### Description
 
-
-
+For this project, I had to get used to creating configurations and using them to complete a project.
