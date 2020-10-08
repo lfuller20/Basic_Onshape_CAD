@@ -11,7 +11,7 @@ I made some a picture frame.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [Dorothy's Dowel Pins](#Dorothy's Dowel Pins)
+* [Dorothy's Dowel Pins](#Dorothy'sDowelPins)
 
 ## Base
 
