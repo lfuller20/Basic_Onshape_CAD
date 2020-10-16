@@ -1,6 +1,6 @@
 # Basic Onshape CAD
 I made a Caster. 
-I made a picture frame.
+I made a picture frame. 
 
 ---
 ## Table of Contents
@@ -184,7 +184,7 @@ As a part of the OnShape Fundamentals pathway, I was intructed to mate assemble 
 https://cvilleschools.onshape.com/documents/af4162f36ef06a70431dc949/w/b4088454c96e3e3291445f44/e/61dffa2adb1fc40937761a33
 
 ### Image
-
+![SoapDispenser](images/SoapDispenser.jpg)
 
 ### Reflection
 
