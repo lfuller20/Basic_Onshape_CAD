@@ -12,6 +12,7 @@ I made a picture frame.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Dorothy's Dowel Pins](#Dorothys-Dowel-Pins)
+* [Soap Dispenser](#Soap-Dispenser)
 
 ## Base
 
@@ -168,4 +169,23 @@ https://cvilleschools.onshape.com/documents/cf07d93a34c749f7ca8902e8/w/dad5d271a
 ![DowelPins](images/DowelPins.jpg)
 
 ### Reflection
+
 This project overall was not that difficult. I struggled more with creating the sides of my picture frame and creating the configurations for that. Mating the pins to the pieces of the frame was quite easy and straight forward. Although at some points this project frustrated me, in the end it felt nice to complete it. 
+
+---
+
+## Soap Dispenser
+
+### Description
+
+As a part of the OnShape Fundamentals pathway, I was intructed to mate assemble a premade soap dispenser. This project got me more experience using mates as well as being introduced to new mates and functions within the OnShape program. 
+
+### Evidence 
+https://cvilleschools.onshape.com/documents/af4162f36ef06a70431dc949/w/b4088454c96e3e3291445f44/e/61dffa2adb1fc40937761a33
+
+### Image
+
+
+### Reflection
+
+I enjoyed completing this quick and easy assignment because it gave me further practice with assemblies in OnShape. I am finding it to be much easier to assemble things in OnShape than it was SolidWorks and I'm looking forward to what else I can create!
