@@ -11,6 +11,8 @@ I made a picture frame.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub Assembly](#Sub-Assembly)
+* [Final Assembly](#Final-Assembly)
 * [Dorothy's Dowel Pins](#Dorothys-Dowel-Pins)
 * [Soap Dispenser](#Soap-Dispenser)
 
@@ -122,7 +124,7 @@ I enjoyed completing this project because I was given the satisfaction of knowin
 
 ---
 
-## Sub-Assembly
+## Sub Assembly
 
 ### Description
 
