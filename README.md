@@ -112,9 +112,9 @@ This project was a little harder than the other because I had some trouble creat
 Creating these parts was as straight-forward and easy as could be. I followed the video that Dr. Shields created and was able to complete the parts very quickly. I learned more about the merge scope and making more than one part within a single document. 
 
 ### Evidence
-Axle and Collar: [Axle and Collar](https://cvilleschools.onshape.com/documents/da32e8ff41670a6a4550c368/w/f91f12e3a29ed19b14ff5e59/e/147271d00c97a6794768e68f)
+[Axle and Collar](https://cvilleschools.onshape.com/documents/da32e8ff41670a6a4550c368/w/f91f12e3a29ed19b14ff5e59/e/147271d00c97a6794768e68f)
 
-Bearing: [Bearing](https://cvilleschools.onshape.com/documents/bdc52f322f1bea62cf503bd3/w/944f7e20c57597a27bc71db1/e/78d51b9df86e8c89469cca3e) 
+[Bearing](https://cvilleschools.onshape.com/documents/bdc52f322f1bea62cf503bd3/w/944f7e20c57597a27bc71db1/e/78d51b9df86e8c89469cca3e) 
 
 ### Images 
 ![AxleandCollar](images/AxleandCollar.jpg)
