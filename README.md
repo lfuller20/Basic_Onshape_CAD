@@ -169,7 +169,7 @@ For this project, I had to get used to creating configurations and using them to
 [Dorothy's Dowel Pins](https://cvilleschools.onshape.com/documents/cf07d93a34c749f7ca8902e8/w/dad5d271a4a3aba1541b6b96/e/eaa107bc207d9053e7a2dc72)
 
 ### Image
-![DowelPins](images/DowelPins.jpg)
+
 
 ### Reflection
 
